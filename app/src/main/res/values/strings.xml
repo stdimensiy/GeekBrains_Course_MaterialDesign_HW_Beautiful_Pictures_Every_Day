@@ -7,9 +7,14 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Настройки</string>
 
-    <string name="menu_home">Главная</string>
+    <string name="menu_home">Картинка дня от NASA</string>
     <string name="menu_gallery">Моя галерея</string>
     <string name="menu_slideshow">Слайдшоу</string>
     <string name="home_fragment_default_text">"Это домашний фрагмент, тут будет картинка дня большая!!!"</string>
     <string name="imageViewPlugdefault">Ожидается загрузка изображения</string>
+    <string name="current_data_plug">Тек. дата</string>
+    <string name="getImageDayBackwardPlug">2021–07–17</string>
+    <string name="getImageDayForwardPlug">2021–07–19</string>
+    <string name="favourite">Избранное</string>
+    <string name="settings">Настройки</string>
 </resources>

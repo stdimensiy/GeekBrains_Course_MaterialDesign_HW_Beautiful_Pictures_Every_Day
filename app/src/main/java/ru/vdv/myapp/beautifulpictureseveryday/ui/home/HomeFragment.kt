@@ -34,7 +34,7 @@ class HomeFragment : Fragment() {
         val imageView: ImageView = binding.imageViewApod
         homeViewModel.apodLiveData.observe(viewLifecycleOwner, {
             Log.d("Моя проверка", " пытаюсь вывести результат")
-            textView.text = it.explanation
+            //textView.text = it.explanation
             Picasso.get()
                 .load(it.url)
                 .placeholder(R.drawable.apod_pholder)
