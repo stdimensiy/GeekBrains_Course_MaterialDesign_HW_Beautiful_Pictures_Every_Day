@@ -10,5 +10,6 @@
     <string name="menu_home">Главная</string>
     <string name="menu_gallery">Моя галерея</string>
     <string name="menu_slideshow">Слайдшоу</string>
-    <string name="home_fragment_default_text">"Это домашний фрагмент, тут будет картинка дня"</string>
+    <string name="home_fragment_default_text">"Это домашний фрагмент, тут будет картинка дня большая!!!"</string>
+    <string name="imageViewPlugdefault">Ожидается загрузка изображения</string>
 </resources>
