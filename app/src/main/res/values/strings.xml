@@ -17,4 +17,5 @@
     <string name="getImageDayForwardPlug">2021–07–19</string>
     <string name="favourite">Избранное</string>
     <string name="settings">Настройки</string>
+    <string name="fab_contentDescription_plug">Добавить в избранное</string>
 </resources>
