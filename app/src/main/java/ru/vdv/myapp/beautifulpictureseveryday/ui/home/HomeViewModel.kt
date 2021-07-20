@@ -13,7 +13,7 @@ class HomeViewModel(
     app: Application,
     private val repository: TestNasaRepository
 ) : ViewModel() {
-    val apiKey: String = BuildConfig.NASA_API_KEY
+    private val apiKey: String = BuildConfig.NASA_API_KEY
     var apodLiveData = MutableLiveData<NasaApodResponse>()
 
     fun fetchData() {

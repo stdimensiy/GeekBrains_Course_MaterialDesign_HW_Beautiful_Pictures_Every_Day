@@ -18,4 +18,6 @@
     <string name="favourite">Избранное</string>
     <string name="settings">Настройки</string>
     <string name="fab_contentDescription_plug">Добавить в избранное</string>
+    <string name="search_wiki">Поищите в Википедии...</string>
+    <string name="wiki_helper_text">Поищите нужный термин в Википедии</string>
 </resources>
