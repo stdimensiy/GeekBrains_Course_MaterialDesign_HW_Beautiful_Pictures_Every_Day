@@ -2,12 +2,22 @@
     <string name="app_name">Beautiful Pictures Every Day</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_title">Красивые картинки от NASA</string>
+    <string name="nav_header_subtitle">stdimensiy@yandex.ru</string>
     <string name="nav_header_desc">Navigation header</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">Настройки</string>
 
-    <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_home">Картинка дня от NASA</string>
+    <string name="menu_gallery">Моя галерея</string>
+    <string name="menu_slideshow">Слайдшоу</string>
+    <string name="home_fragment_default_text">"Это домашний фрагмент, тут будет картинка дня большая!!!"</string>
+    <string name="imageViewPlugdefault">Ожидается загрузка изображения</string>
+    <string name="current_data_plug">Тек. дата</string>
+    <string name="getImageDayBackwardPlug">2021–07–17</string>
+    <string name="getImageDayForwardPlug">2021–07–19</string>
+    <string name="favourite">Избранное</string>
+    <string name="settings">Настройки</string>
+    <string name="fab_contentDescription_plug">Добавить в избранное</string>
+    <string name="search_wiki">Поищите в Википедии...</string>
+    <string name="wiki_helper_text">Поищите нужный термин в Википедии</string>
 </resources>
